@@ -34,7 +34,7 @@ export const TECH_ICONS = {
   "JavaScript": "assets/icons/javascript.svg",
   "Unity": "assets/icons/unity.svg",
   "SFML": "assets/icons/sfml.png",
-  "SDL2": "assets/icons/sdl2.svg",
+  "SDL2": "assets/icons/sdl.svg",
   "CMake": "assets/icons/cmake.svg",
   "Git": "assets/icons/git.svg",
   "Docker": "assets/icons/docker.svg",
